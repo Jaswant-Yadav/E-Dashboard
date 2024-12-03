@@ -1,0 +1,26 @@
+.Product{
+    margin-left: 30%;
+}
+
+.inputBox{
+    display: block;
+    margin: 25px;
+    padding: 7px;
+    width: 300px;
+    border: 1px solid skyblue;
+}
+.AddBtn{
+    margin: 25px;
+    padding: 10px;
+    width: 150px;
+    background-color: rgb(146, 133, 158);
+    cursor: pointer;
+    border: 1px solid;
+    border-radius: 20px;
+}
+.invalid-input{
+    color: red;
+    display: block;
+    margin-top: -20px;
+    margin-left: 30px;
+}

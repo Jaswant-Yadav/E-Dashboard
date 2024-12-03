@@ -1,0 +1,21 @@
+.Product-list{
+    text-align: center;
+}
+.Product-list ul li{
+    display: inline-block;
+    border: 1px solid black;
+    padding: 10px;
+    width: 120px;
+    color: blue;
+}
+.Product-list ul{
+    margin: 0;
+}
+
+.Search-Box{
+    width: 400px;
+    margin: 20px;
+    height: 40px;
+    border: 1px solid skyblue;
+    padding-left: 15px;
+}
